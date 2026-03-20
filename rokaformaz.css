@@ -1,0 +1,77 @@
+body {
+    background-color: #613d19;
+    font-family: Verdana, sans-serif;
+    line-height: 30px;
+    margin: 0;
+}
+
+header {
+    height: 450px;
+    background-image: url("fox_bg.jpg");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(216, 169, 81, 0.8);
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 300px;
+    text-align: center;
+    color: tan;
+    font-size: 5em;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 5px black;
+}
+
+h2 {
+    font-variant: small-caps;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 15px;
+}
+
+i {
+    color: rgb(63, 5, 3);
+}
+
+.kozepre {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.keret {
+    border: 5px double black;
+}
+
+.labnyom {
+    width: 450px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: maroon;
+    text-decoration: none;
+}
+
+.forras {
+    text-align: right;
+    font-style: italic;
+    font-size: 80%;
+}
